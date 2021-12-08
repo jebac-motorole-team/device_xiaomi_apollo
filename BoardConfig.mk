@@ -19,7 +19,7 @@ TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):init_xiaomi_apollon
 TARGET_RECOVERY_DEVICE_MODULES := init_xiaomi_apollon
 
 # Kernel
-TARGET_KERNEL_CONFIG := vendor/apollo_defconfig
+TARGET_KERNEL_CONFIG := vendor/arrow_apollo_defconfig
 
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
