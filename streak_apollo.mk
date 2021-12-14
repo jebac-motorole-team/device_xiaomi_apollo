@@ -22,5 +22,6 @@ PRODUCT_MODEL := Xiaomi Mi 10T
 
 # ProjectStreak properties
 STREAK_BUILD_TYPE := OFFICIAL
+TARGET_BOOT_ANIMATION_RES := 1440
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
